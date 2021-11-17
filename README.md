@@ -5,8 +5,8 @@
 
 #### git clone https://github.com/FrederickClasen/metUntargeted
 #### cd metUntargeted/
-conda create --name analysis
-conda activate analysis
-conda install scipy jupyter
-conda remove zeromq; conda install zeromq
-jupyter notebook
+#### conda create --name analysis
+#### conda activate analysis
+#### conda install scipy jupyter
+#### conda remove zeromq; conda install zeromq
+#### jupyter notebook
