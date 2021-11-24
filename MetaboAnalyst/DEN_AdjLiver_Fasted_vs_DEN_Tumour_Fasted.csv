@@ -1,0 +1,37 @@
+"","Total_Size","Hits","Sig_Hits","Mummichog_Pvals","GSEA_Pvals","Combined_Pvals"
+"Arginine biosynthesis",17,17,5,0.07852,0.08791,0.04125
+"Citrate cycle (TCA cycle)",12,12,3,0.2378,0.05556,0.07037
+"Terpenoid backbone biosynthesis",5,5,1,0.5395,0.0303,0.08359
+"Glutathione metabolism",14,14,4,0.124,0.1494,0.09239
+"Glycerophospholipid metabolism",5,5,2,0.1507,0.1515,0.1091
+"Alanine, aspartate and glutamate metabolism",33,33,8,0.07863,0.4149,0.1443
+"Metabolism of xenobiotics by cytochrome P450",15,15,3,0.3645,0.1395,0.2023
+"Pyruvate metabolism",7,7,1,0.6634,0.07692,0.2029
+"D-Glutamine and D-glutamate metabolism",11,11,3,0.1974,0.2619,0.2048
+"Purine metabolism",31,31,7,0.1343,0.4111,0.2151
+"Primary bile acid biosynthesis",6,6,2,0.2059,0.2687,0.2155
+"Butanoate metabolism",25,25,6,0.1285,0.5889,0.271
+"Valine, leucine and isoleucine degradation",25,25,6,0.1285,0.6111,0.2783
+"Cysteine and methionine metabolism",20,20,5,0.1405,0.6392,0.3062
+"Aminoacyl-tRNA biosynthesis",27,27,4,0.5577,0.163,0.3089
+"Fatty acid degradation",11,11,2,0.4825,0.2381,0.3635
+"Propanoate metabolism",13,13,2,0.5773,0.2045,0.3703
+"Glyoxylate and dicarboxylate metabolism",14,14,2,0.6199,0.2,0.3828
+"Arginine and proline metabolism",37,37,6,0.4391,0.3118,0.4091
+"Amino sugar and nucleotide sugar metabolism",14,14,3,0.3219,0.5057,0.4583
+"Taurine and hypotaurine metabolism",7,7,1,0.6634,0.3026,0.5231
+"Pantothenate and CoA biosynthesis",27,27,4,0.5577,0.3696,0.5317
+"Riboflavin metabolism",3,3,1,0.3712,0.5882,0.5505
+"Histidine metabolism",24,24,2,0.885,0.2556,0.5624
+"Nitrogen metabolism",4,4,1,0.4618,0.4928,0.5644
+"Porphyrin and chlorophyll metabolism",6,6,1,0.6062,0.403,0.5886
+"Nicotinate and nicotinamide metabolism",7,7,1,0.6634,0.3947,0.6127
+"Folate biosynthesis",3,3,1,0.3712,0.75,0.6343
+"Phenylalanine metabolism",7,7,1,0.6634,0.4615,0.6686
+"Glycine, serine and threonine metabolism",31,31,5,0.4632,0.6889,0.6836
+"Steroid hormone biosynthesis",5,5,1,0.5395,0.6812,0.7354
+"Valine, leucine and isoleucine biosynthesis",14,14,2,0.6199,0.7816,0.8356
+"Tyrosine metabolism",33,33,3,0.8814,0.5532,0.8378
+"Drug metabolism - cytochrome P450",8,8,1,0.7125,0.7436,0.8664
+"Pyrimidine metabolism",37,37,3,0.9257,0.6667,0.915
+"beta-Alanine metabolism",20,20,1,0.9582,0.7835,0.966

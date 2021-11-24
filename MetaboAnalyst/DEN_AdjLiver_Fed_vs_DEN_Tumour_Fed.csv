@@ -1,0 +1,41 @@
+"","Total_Size","Hits","Sig_Hits","Mummichog_Pvals","GSEA_Pvals","Combined_Pvals"
+"Arginine and proline metabolism",37,37,8,0.00858,0.01449,0.00124
+"Aminoacyl-tRNA biosynthesis",26,26,5,0.06298,0.08696,0.034
+"Synthesis and degradation of ketone bodies",7,7,2,0.1168,0.05,0.03588
+"Glycine, serine and threonine metabolism",33,33,6,0.05353,0.1935,0.05769
+"Phenylalanine, tyrosine and tryptophan biosynthesis",4,4,1,0.3061,0.05556,0.0863
+"Lysine degradation",18,18,3,0.1988,0.1077,0.1037
+"Pyruvate metabolism",7,7,1,0.4739,0.05,0.1124
+"D-Glutamine and D-glutamate metabolism",11,11,3,0.06101,0.5088,0.1388
+"Tyrosine metabolism",35,35,3,0.6081,0.05714,0.1515
+"Glycosylphosphatidylinositol (GPI)-anchor biosynthesis",2,2,1,0.1666,0.3273,0.2131
+"Propanoate metabolism",14,14,2,0.348,0.1795,0.2357
+"Glutathione metabolism",13,13,3,0.09377,0.7213,0.2498
+"Porphyrin and chlorophyll metabolism",8,8,2,0.1475,0.4865,0.2608
+"Drug metabolism - cytochrome P450",8,8,1,0.5206,0.1385,0.2617
+"Nicotinate and nicotinamide metabolism",7,7,2,0.1168,0.629,0.2653
+"Valine, leucine and isoleucine biosynthesis",14,14,2,0.348,0.2308,0.2829
+"Citrate cycle (TCA cycle)",15,15,1,0.7516,0.1143,0.2968
+"Phenylalanine metabolism",8,8,1,0.5206,0.1692,0.3021
+"Butanoate metabolism",27,27,4,0.1979,0.4516,0.3052
+"Histidine metabolism",24,24,4,0.1443,0.6232,0.3065
+"D-Arginine and D-ornithine metabolism",4,4,1,0.3061,0.2963,0.3084
+"Amino sugar and nucleotide sugar metabolism",15,15,3,0.1324,0.7164,0.3182
+"Arginine biosynthesis",16,16,3,0.1535,0.6667,0.3357
+"Glyoxylate and dicarboxylate metabolism",17,17,2,0.4455,0.2778,0.3823
+"Phosphatidylinositol signaling system",4,4,1,0.3061,0.4444,0.4074
+"beta-Alanine metabolism",22,22,3,0.2969,0.4706,0.4147
+"Nitrogen metabolism",4,4,1,0.3061,0.5,0.4403
+"Glycolysis or Gluconeogenesis",6,6,1,0.4229,0.377,0.4522
+"Inositol phosphate metabolism",6,6,1,0.4229,0.377,0.4522
+"Purine metabolism",29,29,2,0.7433,0.2162,0.4545
+"Fructose and mannose metabolism",10,10,1,0.6021,0.3448,0.534
+"Cysteine and methionine metabolism",20,20,2,0.535,0.4062,0.549
+"Valine, leucine and isoleucine degradation",27,27,3,0.4234,0.5806,0.5908
+"Tryptophan metabolism",30,30,2,0.7609,0.3699,0.6383
+"Starch and sucrose metabolism",7,7,1,0.4739,0.6129,0.6496
+"Pantothenate and CoA biosynthesis",26,26,2,0.684,0.4545,0.6741
+"Alanine, aspartate and glutamate metabolism",35,35,4,0.3621,0.9286,0.7028
+"Ascorbate and aldarate metabolism",9,9,1,0.5632,0.619,0.716
+"Galactose metabolism",11,11,1,0.6377,0.7544,0.8331
+"Pyrimidine metabolism",38,38,2,0.8687,0.5588,0.8363

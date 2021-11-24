@@ -1,0 +1,328 @@
+Experiment	Pathway	Ratio	pval
+DEN_Tumour_Fasted_vs_DEN_Tumour_Fed	Purine metabolism	0.5806451612903226	8e-05
+DEN_Tumour_Fasted_vs_DEN_Tumour_Fed	beta-Alanine metabolism	0.5714285714285714	0.00381
+DEN_Tumour_Fasted_vs_DEN_Tumour_Fed	Arginine biosynthesis	0.6875	0.00651
+DEN_Tumour_Fasted_vs_DEN_Tumour_Fed	Glycine, serine and threonine metabolism	0.46875	0.03258
+DEN_Tumour_Fasted_vs_DEN_Tumour_Fed	Glyoxylate and dicarboxylate metabolism	0.5882352941176471	0.04327
+DEN_Tumour_Fasted_vs_DEN_Tumour_Fed	Synthesis and degradation of ketone bodies	0.7142857142857143	0.05876
+DEN_Tumour_Fasted_vs_DEN_Tumour_Fed	Alanine, aspartate and glutamate metabolism	0.4117647058823529	0.06115
+DEN_Tumour_Fasted_vs_DEN_Tumour_Fed	Citrate cycle (TCA cycle)	0.5	0.08272
+DEN_Tumour_Fasted_vs_DEN_Tumour_Fed	D-Glutamine and D-glutamate metabolism	0.5454545454545454	0.08749
+DEN_Tumour_Fasted_vs_DEN_Tumour_Fed	Pantothenate and CoA biosynthesis	0.48	0.103
+DEN_Tumour_Fasted_vs_DEN_Tumour_Fed	Propanoate metabolism	0.46153846153846156	0.1042
+DEN_Tumour_Fasted_vs_DEN_Tumour_Fed	Pyrimidine metabolism	0.3783783783783784	0.1049
+DEN_Tumour_Fasted_vs_DEN_Tumour_Fed	Butanoate metabolism	0.48	0.108
+DEN_Tumour_Fasted_vs_DEN_Tumour_Fed	Caffeine metabolism	1.0	0.1089
+DEN_Tumour_Fasted_vs_DEN_Tumour_Fed	Nitrogen metabolism	0.75	0.1304
+DEN_Tumour_Fasted_vs_DEN_Tumour_Fed	Fructose and mannose metabolism	0.1	0.1432
+DEN_Tumour_Fasted_vs_DEN_Tumour_Fed	Amino sugar and nucleotide sugar metabolism	0.3333333333333333	0.1497
+DEN_Tumour_Fasted_vs_DEN_Tumour_Fed	Cysteine and methionine metabolism	0.4	0.1609
+DEN_Tumour_Fasted_vs_DEN_Tumour_Fed	Valine, leucine and isoleucine biosynthesis	0.5	0.2019
+DEN_Tumour_Fasted_vs_DEN_Tumour_Fed	Tyrosine metabolism	0.29411764705882354	0.2257
+DEN_Tumour_Fasted_vs_DEN_Tumour_Fed	Glycerophospholipid metabolism	0.4	0.2609
+DEN_Tumour_Fasted_vs_DEN_Tumour_Fed	Sphingolipid metabolism	0.5	0.2672
+DEN_Tumour_Fasted_vs_DEN_Tumour_Fed	Pyruvate metabolism	0.5714285714285714	0.2725
+DEN_Tumour_Fasted_vs_DEN_Tumour_Fed	Terpenoid backbone biosynthesis	0.4	0.2851
+DEN_Tumour_Fasted_vs_DEN_Tumour_Fed	Glycolysis or Gluconeogenesis	0.5	0.3093
+DEN_Tumour_Fasted_vs_DEN_Tumour_Fed	Inositol phosphate metabolism	0.5	0.3093
+DEN_Tumour_Fasted_vs_DEN_Tumour_Fed	Ascorbate and aldarate metabolism	0.2222222222222222	0.3273
+DEN_Tumour_Fasted_vs_DEN_Tumour_Fed	Steroid hormone biosynthesis	0.6	0.3608
+DEN_Tumour_Fasted_vs_DEN_Tumour_Fed	Aminoacyl-tRNA biosynthesis	0.37037037037037035	0.366
+DEN_Tumour_Fasted_vs_DEN_Tumour_Fed	Fatty acid elongation	0.1111111111111111	0.4086
+DEN_Tumour_Fasted_vs_DEN_Tumour_Fed	Valine, leucine and isoleucine degradation	0.4	0.4151
+DEN_Tumour_Fasted_vs_DEN_Tumour_Fed	Fatty acid biosynthesis	0.5	0.4604
+DEN_Tumour_Fasted_vs_DEN_Tumour_Fed	Fatty acid degradation	0.09090909090909091	0.483
+DEN_Tumour_Fasted_vs_DEN_Tumour_Fed	Glycerolipid metabolism	0.5	0.527
+DEN_Tumour_Fasted_vs_DEN_Tumour_Fed	Phosphatidylinositol signaling system	0.25	0.5283
+DEN_Tumour_Fasted_vs_DEN_Tumour_Fed	Folate biosynthesis	0.2	0.5752
+DEN_Tumour_Fasted_vs_DEN_Tumour_Fed	Vitamin B6 metabolism	0.4	0.5884
+DEN_Tumour_Fasted_vs_DEN_Tumour_Fed	Ubiquinone and other terpenoid-quinone biosynthesis	0.25	0.6035
+DEN_Tumour_Fasted_vs_DEN_Tumour_Fed	Retinol metabolism	1.0	0.6204
+DEN_Tumour_Fasted_vs_DEN_Tumour_Fed	Phenylalanine, tyrosine and tryptophan biosynthesis	0.25	0.6262
+DEN_Tumour_Fasted_vs_DEN_Tumour_Fed	Taurine and hypotaurine metabolism	0.125	0.6978
+DEN_Tumour_Fasted_vs_DEN_Tumour_Fed	Glutathione metabolism	0.3076923076923077	0.702
+DEN_Tumour_Fasted_vs_DEN_Tumour_Fed	D-Arginine and D-ornithine metabolism	0.25	0.7419
+DEN_Tumour_Fasted_vs_DEN_Tumour_Fed	Drug metabolism - cytochrome P450	0.375	0.7645
+DEN_Tumour_Fasted_vs_DEN_Tumour_Fed	Pentose phosphate pathway	0.2	0.7839
+DEN_Tumour_Fasted_vs_DEN_Tumour_Fed	Arginine and proline metabolism	0.25	0.8398
+DEN_Tumour_Fasted_vs_DEN_Tumour_Fed	Porphyrin and chlorophyll metabolism	0.25	0.8714
+DEN_Tumour_Fasted_vs_DEN_Tumour_Fed	Metabolism of xenobiotics by cytochrome P450	0.1	0.8799
+DEN_Tumour_Fasted_vs_DEN_Tumour_Fed	Galactose metabolism	0.09090909090909091	0.8815
+DEN_Tumour_Fasted_vs_DEN_Tumour_Fed	Histidine metabolism	0.24	0.8836
+DEN_Tumour_Fasted_vs_DEN_Tumour_Fed	Phenylalanine metabolism	0.125	0.9165
+DEN_Tumour_Fasted_vs_DEN_Tumour_Fed	Lysine degradation	0.2222222222222222	0.9345
+DEN_Tumour_Fasted_vs_DEN_Tumour_Fed	Pentose and glucuronate interconversions	0.1	0.9395
+DEN_Tumour_Fasted_vs_DEN_Tumour_Fed	Starch and sucrose metabolism	0.14285714285714285	0.9436
+DEN_Tumour_Fasted_vs_DEN_Tumour_Fed	Nicotinate and nicotinamide metabolism	0.14285714285714285	0.9512
+DEN_Tumour_Fasted_vs_DEN_Tumour_Fed	Biosynthesis of unsaturated fatty acids	0.07142857142857142	0.9572
+DEN_Tumour_Fasted_vs_DEN_Tumour_Fed	Tryptophan metabolism	0.14814814814814814	0.997
+DEN_AdjLiver_Fasted_vs_DEN_AdjLiver_Fed	Purine metabolism	0.6666666666666666	2e-05
+DEN_AdjLiver_Fasted_vs_DEN_AdjLiver_Fed	Arginine and proline metabolism	0.6216216216216216	0.0011
+DEN_AdjLiver_Fasted_vs_DEN_AdjLiver_Fed	Glycine, serine and threonine metabolism	0.6363636363636364	0.00147
+DEN_AdjLiver_Fasted_vs_DEN_AdjLiver_Fed	Cysteine and methionine metabolism	0.55	0.0567
+DEN_AdjLiver_Fasted_vs_DEN_AdjLiver_Fed	D-Glutamine and D-glutamate metabolism	0.6363636363636364	0.07254
+DEN_AdjLiver_Fasted_vs_DEN_AdjLiver_Fed	Sphingolipid metabolism	0.75	0.09641
+DEN_AdjLiver_Fasted_vs_DEN_AdjLiver_Fed	Butanoate metabolism	0.5185185185185185	0.0987
+DEN_AdjLiver_Fasted_vs_DEN_AdjLiver_Fed	Taurine and hypotaurine metabolism	0.2857142857142857	0.127
+DEN_AdjLiver_Fasted_vs_DEN_AdjLiver_Fed	Metabolism of xenobiotics by cytochrome P450	0.2857142857142857	0.1501
+DEN_AdjLiver_Fasted_vs_DEN_AdjLiver_Fed	Amino sugar and nucleotide sugar metabolism	0.3333333333333333	0.1793
+DEN_AdjLiver_Fasted_vs_DEN_AdjLiver_Fed	Ascorbate and aldarate metabolism	0.3	0.2104
+DEN_AdjLiver_Fasted_vs_DEN_AdjLiver_Fed	Nitrogen metabolism	0.75	0.2108
+DEN_AdjLiver_Fasted_vs_DEN_AdjLiver_Fed	Alanine, aspartate and glutamate metabolism	0.45714285714285713	0.2402
+DEN_AdjLiver_Fasted_vs_DEN_AdjLiver_Fed	beta-Alanine metabolism	0.36363636363636365	0.2657
+DEN_AdjLiver_Fasted_vs_DEN_AdjLiver_Fed	Vitamin B6 metabolism	0.25	0.2716
+DEN_AdjLiver_Fasted_vs_DEN_AdjLiver_Fed	Porphyrin and chlorophyll metabolism	0.6666666666666666	0.2858
+DEN_AdjLiver_Fasted_vs_DEN_AdjLiver_Fed	Synthesis and degradation of ketone bodies	0.5714285714285714	0.3019
+DEN_AdjLiver_Fasted_vs_DEN_AdjLiver_Fed	Glycerolipid metabolism	0.75	0.3543
+DEN_AdjLiver_Fasted_vs_DEN_AdjLiver_Fed	Propanoate metabolism	0.5	0.3646
+DEN_AdjLiver_Fasted_vs_DEN_AdjLiver_Fed	Glycerophospholipid metabolism	0.6	0.3791
+DEN_AdjLiver_Fasted_vs_DEN_AdjLiver_Fed	Tyrosine metabolism	0.34285714285714286	0.4064
+DEN_AdjLiver_Fasted_vs_DEN_AdjLiver_Fed	Nicotinate and nicotinamide metabolism	0.42857142857142855	0.4068
+DEN_AdjLiver_Fasted_vs_DEN_AdjLiver_Fed	Phosphatidylinositol signaling system	0.25	0.4128
+DEN_AdjLiver_Fasted_vs_DEN_AdjLiver_Fed	Arginine biosynthesis	0.47058823529411764	0.4164
+DEN_AdjLiver_Fasted_vs_DEN_AdjLiver_Fed	Glutathione metabolism	0.42857142857142855	0.4266
+DEN_AdjLiver_Fasted_vs_DEN_AdjLiver_Fed	Terpenoid backbone biosynthesis	0.25	0.4379
+DEN_AdjLiver_Fasted_vs_DEN_AdjLiver_Fed	Drug metabolism - other enzymes	0.5	0.4427
+DEN_AdjLiver_Fasted_vs_DEN_AdjLiver_Fed	D-Arginine and D-ornithine metabolism	0.6	0.4698
+DEN_AdjLiver_Fasted_vs_DEN_AdjLiver_Fed	Glyoxylate and dicarboxylate metabolism	0.4666666666666667	0.5177
+DEN_AdjLiver_Fasted_vs_DEN_AdjLiver_Fed	Folate biosynthesis	0.16666666666666666	0.5628
+DEN_AdjLiver_Fasted_vs_DEN_AdjLiver_Fed	Histidine metabolism	0.36	0.565
+DEN_AdjLiver_Fasted_vs_DEN_AdjLiver_Fed	Aminoacyl-tRNA biosynthesis	0.3333333333333333	0.5671
+DEN_AdjLiver_Fasted_vs_DEN_AdjLiver_Fed	Starch and sucrose metabolism	0.16666666666666666	0.5968
+DEN_AdjLiver_Fasted_vs_DEN_AdjLiver_Fed	Valine, leucine and isoleucine biosynthesis	0.35714285714285715	0.6398
+DEN_AdjLiver_Fasted_vs_DEN_AdjLiver_Fed	Citrate cycle (TCA cycle)	0.23076923076923078	0.6752
+DEN_AdjLiver_Fasted_vs_DEN_AdjLiver_Fed	Valine, leucine and isoleucine degradation	0.37037037037037035	0.6855
+DEN_AdjLiver_Fasted_vs_DEN_AdjLiver_Fed	Phenylalanine, tyrosine and tryptophan biosynthesis	0.25	0.6945
+DEN_AdjLiver_Fasted_vs_DEN_AdjLiver_Fed	Galactose metabolism	0.1111111111111111	0.7001
+DEN_AdjLiver_Fasted_vs_DEN_AdjLiver_Fed	Fatty acid degradation	0.18181818181818182	0.7045
+DEN_AdjLiver_Fasted_vs_DEN_AdjLiver_Fed	Selenocompound metabolism	0.5	0.7098
+DEN_AdjLiver_Fasted_vs_DEN_AdjLiver_Fed	Linoleic acid metabolism	0.5	0.7456
+DEN_AdjLiver_Fasted_vs_DEN_AdjLiver_Fed	Tryptophan metabolism	0.14285714285714285	0.7591
+DEN_AdjLiver_Fasted_vs_DEN_AdjLiver_Fed	Glycosylphosphatidylinositol (GPI)-anchor biosynthesis	0.5	0.7631
+DEN_AdjLiver_Fasted_vs_DEN_AdjLiver_Fed	Ubiquinone and other terpenoid-quinone biosynthesis	0.25	0.7708
+DEN_AdjLiver_Fasted_vs_DEN_AdjLiver_Fed	Fructose and mannose metabolism	0.1111111111111111	0.7738
+DEN_AdjLiver_Fasted_vs_DEN_AdjLiver_Fed	Fatty acid elongation	0.2222222222222222	0.8001
+DEN_AdjLiver_Fasted_vs_DEN_AdjLiver_Fed	Pyruvate metabolism	0.14285714285714285	0.8096
+DEN_AdjLiver_Fasted_vs_DEN_AdjLiver_Fed	Pantothenate and CoA biosynthesis	0.32142857142857145	0.8346
+DEN_AdjLiver_Fasted_vs_DEN_AdjLiver_Fed	Lysine degradation	0.3333333333333333	0.8375
+DEN_AdjLiver_Fasted_vs_DEN_AdjLiver_Fed	Pyrimidine metabolism	0.32432432432432434	0.8483
+DEN_AdjLiver_Fasted_vs_DEN_AdjLiver_Fed	Glycolysis or Gluconeogenesis	0.3333333333333333	0.8617
+DEN_AdjLiver_Fasted_vs_DEN_AdjLiver_Fed	Inositol phosphate metabolism	0.3333333333333333	0.8617
+DEN_AdjLiver_Fasted_vs_DEN_AdjLiver_Fed	Pentose phosphate pathway	0.2727272727272727	0.943
+DEN_AdjLiver_Fasted_vs_DEN_AdjLiver_Fed	Steroid hormone biosynthesis	0.2	0.945
+DEN_AdjLiver_Fasted_vs_DEN_AdjLiver_Fed	Pentose and glucuronate interconversions	0.2	0.9576
+DEN_AdjLiver_Fasted_vs_DEN_AdjLiver_Fed	Primary bile acid biosynthesis	0.14285714285714285	0.9714
+DEN_AdjLiver_Fasted_vs_DEN_AdjLiver_Fed	Fatty acid biosynthesis	0.25	0.9797
+DEN_AdjLiver_Fasted_vs_DEN_AdjLiver_Fed	Biosynthesis of unsaturated fatty acids	0.07142857142857142	0.9988
+nonDEN_Liver_Fasted_vs_nonDEN_Liver_Fed	Glycine, serine and threonine metabolism	0.34375	0.00519
+nonDEN_Liver_Fasted_vs_nonDEN_Liver_Fed	Taurine and hypotaurine metabolism	0.375	0.01119
+nonDEN_Liver_Fasted_vs_nonDEN_Liver_Fed	Ubiquinone and other terpenoid-quinone biosynthesis	0.5	0.01957
+nonDEN_Liver_Fasted_vs_nonDEN_Liver_Fed	Propanoate metabolism	0.35714285714285715	0.03349
+nonDEN_Liver_Fasted_vs_nonDEN_Liver_Fed	Arginine and proline metabolism	0.2972972972972973	0.03665
+nonDEN_Liver_Fasted_vs_nonDEN_Liver_Fed	Purine metabolism	0.16666666666666666	0.03876
+nonDEN_Liver_Fasted_vs_nonDEN_Liver_Fed	Alanine, aspartate and glutamate metabolism	0.29411764705882354	0.05298
+nonDEN_Liver_Fasted_vs_nonDEN_Liver_Fed	Tyrosine metabolism	0.2571428571428571	0.07307
+nonDEN_Liver_Fasted_vs_nonDEN_Liver_Fed	Terpenoid backbone biosynthesis	0.2	0.07795
+nonDEN_Liver_Fasted_vs_nonDEN_Liver_Fed	Cysteine and methionine metabolism	0.35	0.07857
+nonDEN_Liver_Fasted_vs_nonDEN_Liver_Fed	Butanoate metabolism	0.2692307692307692	0.1465
+nonDEN_Liver_Fasted_vs_nonDEN_Liver_Fed	Nitrogen metabolism	0.5	0.1644
+nonDEN_Liver_Fasted_vs_nonDEN_Liver_Fed	Valine, leucine and isoleucine biosynthesis	0.2857142857142857	0.1867
+nonDEN_Liver_Fasted_vs_nonDEN_Liver_Fed	Glutathione metabolism	0.2857142857142857	0.2039
+nonDEN_Liver_Fasted_vs_nonDEN_Liver_Fed	D-Glutamine and D-glutamate metabolism	0.2727272727272727	0.2112
+nonDEN_Liver_Fasted_vs_nonDEN_Liver_Fed	D-Arginine and D-ornithine metabolism	0.4	0.2379
+nonDEN_Liver_Fasted_vs_nonDEN_Liver_Fed	Pentose phosphate pathway	0.09090909090909091	0.2742
+nonDEN_Liver_Fasted_vs_nonDEN_Liver_Fed	Arginine biosynthesis	0.29411764705882354	0.2842
+nonDEN_Liver_Fasted_vs_nonDEN_Liver_Fed	Primary bile acid biosynthesis	0.125	0.3073
+nonDEN_Liver_Fasted_vs_nonDEN_Liver_Fed	Synthesis and degradation of ketone bodies	0.2857142857142857	0.312
+nonDEN_Liver_Fasted_vs_nonDEN_Liver_Fed	Metabolism of xenobiotics by cytochrome P450	0.25	0.3126
+nonDEN_Liver_Fasted_vs_nonDEN_Liver_Fed	Phosphatidylinositol signaling system	0.25	0.3182
+nonDEN_Liver_Fasted_vs_nonDEN_Liver_Fed	Aminoacyl-tRNA biosynthesis	0.2222222222222222	0.3297
+nonDEN_Liver_Fasted_vs_nonDEN_Liver_Fed	Selenocompound metabolism	0.5	0.3386
+nonDEN_Liver_Fasted_vs_nonDEN_Liver_Fed	Citrate cycle (TCA cycle)	0.13333333333333333	0.3398
+nonDEN_Liver_Fasted_vs_nonDEN_Liver_Fed	Valine, leucine and isoleucine degradation	0.23076923076923078	0.4066
+nonDEN_Liver_Fasted_vs_nonDEN_Liver_Fed	Pyruvate metabolism	0.14285714285714285	0.438
+nonDEN_Liver_Fasted_vs_nonDEN_Liver_Fed	Drug metabolism - cytochrome P450	0.2222222222222222	0.4983
+nonDEN_Liver_Fasted_vs_nonDEN_Liver_Fed	Amino sugar and nucleotide sugar metabolism	0.14285714285714285	0.4992
+nonDEN_Liver_Fasted_vs_nonDEN_Liver_Fed	Porphyrin and chlorophyll metabolism	0.3333333333333333	0.5084
+nonDEN_Liver_Fasted_vs_nonDEN_Liver_Fed	Phenylalanine, tyrosine and tryptophan biosynthesis	0.25	0.5154
+nonDEN_Liver_Fasted_vs_nonDEN_Liver_Fed	Glycolysis or Gluconeogenesis	0.2857142857142857	0.5688
+nonDEN_Liver_Fasted_vs_nonDEN_Liver_Fed	Inositol phosphate metabolism	0.2857142857142857	0.5688
+nonDEN_Liver_Fasted_vs_nonDEN_Liver_Fed	beta-Alanine metabolism	0.14285714285714285	0.5707
+nonDEN_Liver_Fasted_vs_nonDEN_Liver_Fed	Glyoxylate and dicarboxylate metabolism	0.2222222222222222	0.5915
+nonDEN_Liver_Fasted_vs_nonDEN_Liver_Fed	Vitamin B6 metabolism	0.16666666666666666	0.6006
+nonDEN_Liver_Fasted_vs_nonDEN_Liver_Fed	Pyrimidine metabolism	0.13513513513513514	0.6177
+nonDEN_Liver_Fasted_vs_nonDEN_Liver_Fed	Glycerolipid metabolism	0.25	0.6539
+nonDEN_Liver_Fasted_vs_nonDEN_Liver_Fed	Starch and sucrose metabolism	0.16666666666666666	0.7331
+nonDEN_Liver_Fasted_vs_nonDEN_Liver_Fed	Pantothenate and CoA biosynthesis	0.1111111111111111	0.7562
+nonDEN_Liver_Fasted_vs_nonDEN_Liver_Fed	Glycerophospholipid metabolism	0.2	0.775
+nonDEN_Liver_Fasted_vs_nonDEN_Liver_Fed	Sphingolipid metabolism	0.25	0.7902
+nonDEN_Liver_Fasted_vs_nonDEN_Liver_Fed	Ascorbate and aldarate metabolism	0.2	0.7966
+nonDEN_Liver_Fasted_vs_nonDEN_Liver_Fed	Nicotinate and nicotinamide metabolism	0.16666666666666666	0.8374
+nonDEN_Liver_Fasted_vs_nonDEN_Liver_Fed	Histidine metabolism	0.125	0.8632
+nonDEN_Liver_Fasted_vs_nonDEN_Liver_Fed	Fatty acid biosynthesis	0.125	0.8674
+nonDEN_Liver_Fasted_vs_nonDEN_Liver_Fed	Lysine degradation	0.11764705882352941	0.8916
+nonDEN_Liver_Fasted_vs_nonDEN_Liver_Fed	Phenylalanine metabolism	0.14285714285714285	0.9137
+nonDEN_Liver_Fasted_vs_nonDEN_Liver_Fed	Fructose and mannose metabolism	0.09090909090909091	0.9351
+nonDEN_Liver_Fasted_vs_nonDEN_Liver_Fed	Tryptophan metabolism	0.043478260869565216	0.9525
+nonDEN_Liver_Fasted_vs_nonDEN_Liver_Fed	Galactose metabolism	0.1	0.9688
+DEN_AdjLiver_Fasted_vs_DEN_Tumour_Fasted	Arginine biosynthesis	0.29411764705882354	0.04125
+DEN_AdjLiver_Fasted_vs_DEN_Tumour_Fasted	Citrate cycle (TCA cycle)	0.25	0.07037
+DEN_AdjLiver_Fasted_vs_DEN_Tumour_Fasted	Terpenoid backbone biosynthesis	0.2	0.08359
+DEN_AdjLiver_Fasted_vs_DEN_Tumour_Fasted	Glutathione metabolism	0.2857142857142857	0.09239
+DEN_AdjLiver_Fasted_vs_DEN_Tumour_Fasted	Glycerophospholipid metabolism	0.4	0.1091
+DEN_AdjLiver_Fasted_vs_DEN_Tumour_Fasted	Alanine, aspartate and glutamate metabolism	0.24242424242424243	0.1443
+DEN_AdjLiver_Fasted_vs_DEN_Tumour_Fasted	Metabolism of xenobiotics by cytochrome P450	0.2	0.2023
+DEN_AdjLiver_Fasted_vs_DEN_Tumour_Fasted	Pyruvate metabolism	0.14285714285714285	0.2029
+DEN_AdjLiver_Fasted_vs_DEN_Tumour_Fasted	D-Glutamine and D-glutamate metabolism	0.2727272727272727	0.2048
+DEN_AdjLiver_Fasted_vs_DEN_Tumour_Fasted	Purine metabolism	0.22580645161290322	0.2151
+DEN_AdjLiver_Fasted_vs_DEN_Tumour_Fasted	Primary bile acid biosynthesis	0.3333333333333333	0.2155
+DEN_AdjLiver_Fasted_vs_DEN_Tumour_Fasted	Butanoate metabolism	0.24	0.271
+DEN_AdjLiver_Fasted_vs_DEN_Tumour_Fasted	Valine, leucine and isoleucine degradation	0.24	0.2783
+DEN_AdjLiver_Fasted_vs_DEN_Tumour_Fasted	Cysteine and methionine metabolism	0.25	0.3062
+DEN_AdjLiver_Fasted_vs_DEN_Tumour_Fasted	Aminoacyl-tRNA biosynthesis	0.14814814814814814	0.3089
+DEN_AdjLiver_Fasted_vs_DEN_Tumour_Fasted	Fatty acid degradation	0.18181818181818182	0.3635
+DEN_AdjLiver_Fasted_vs_DEN_Tumour_Fasted	Propanoate metabolism	0.15384615384615385	0.3703
+DEN_AdjLiver_Fasted_vs_DEN_Tumour_Fasted	Glyoxylate and dicarboxylate metabolism	0.14285714285714285	0.3828
+DEN_AdjLiver_Fasted_vs_DEN_Tumour_Fasted	Arginine and proline metabolism	0.16216216216216217	0.4091
+DEN_AdjLiver_Fasted_vs_DEN_Tumour_Fasted	Amino sugar and nucleotide sugar metabolism	0.21428571428571427	0.4583
+DEN_AdjLiver_Fasted_vs_DEN_Tumour_Fasted	Taurine and hypotaurine metabolism	0.14285714285714285	0.5231
+DEN_AdjLiver_Fasted_vs_DEN_Tumour_Fasted	Pantothenate and CoA biosynthesis	0.14814814814814814	0.5317
+DEN_AdjLiver_Fasted_vs_DEN_Tumour_Fasted	Riboflavin metabolism	0.3333333333333333	0.5505
+DEN_AdjLiver_Fasted_vs_DEN_Tumour_Fasted	Histidine metabolism	0.08333333333333333	0.5624
+DEN_AdjLiver_Fasted_vs_DEN_Tumour_Fasted	Nitrogen metabolism	0.25	0.5644
+DEN_AdjLiver_Fasted_vs_DEN_Tumour_Fasted	Porphyrin and chlorophyll metabolism	0.16666666666666666	0.5886
+DEN_AdjLiver_Fasted_vs_DEN_Tumour_Fasted	Nicotinate and nicotinamide metabolism	0.14285714285714285	0.6127
+DEN_AdjLiver_Fasted_vs_DEN_Tumour_Fasted	Folate biosynthesis	0.3333333333333333	0.6343
+DEN_AdjLiver_Fasted_vs_DEN_Tumour_Fasted	Phenylalanine metabolism	0.14285714285714285	0.6686
+DEN_AdjLiver_Fasted_vs_DEN_Tumour_Fasted	Glycine, serine and threonine metabolism	0.16129032258064516	0.6836
+DEN_AdjLiver_Fasted_vs_DEN_Tumour_Fasted	Steroid hormone biosynthesis	0.2	0.7354
+DEN_AdjLiver_Fasted_vs_DEN_Tumour_Fasted	Valine, leucine and isoleucine biosynthesis	0.14285714285714285	0.8356
+DEN_AdjLiver_Fasted_vs_DEN_Tumour_Fasted	Tyrosine metabolism	0.09090909090909091	0.8378
+DEN_AdjLiver_Fasted_vs_DEN_Tumour_Fasted	Drug metabolism - cytochrome P450	0.125	0.8664
+DEN_AdjLiver_Fasted_vs_DEN_Tumour_Fasted	Pyrimidine metabolism	0.08108108108108109	0.915
+DEN_AdjLiver_Fasted_vs_DEN_Tumour_Fasted	beta-Alanine metabolism	0.05	0.966
+DEN_AdjLiver_Fasted_vs_nonDEN_Liver_Fasted	Primary bile acid biosynthesis	0.5	0.00281
+DEN_AdjLiver_Fasted_vs_nonDEN_Liver_Fasted	Purine metabolism	0.3	0.00663
+DEN_AdjLiver_Fasted_vs_nonDEN_Liver_Fasted	Nicotinate and nicotinamide metabolism	0.2857142857142857	0.07718
+DEN_AdjLiver_Fasted_vs_nonDEN_Liver_Fasted	Phenylalanine metabolism	0.2857142857142857	0.08938
+DEN_AdjLiver_Fasted_vs_nonDEN_Liver_Fasted	Aminoacyl-tRNA biosynthesis	0.14814814814814814	0.1153
+DEN_AdjLiver_Fasted_vs_nonDEN_Liver_Fasted	Biotin metabolism	1.0	0.1236
+DEN_AdjLiver_Fasted_vs_nonDEN_Liver_Fasted	Fatty acid degradation	0.18181818181818182	0.1379
+DEN_AdjLiver_Fasted_vs_nonDEN_Liver_Fasted	Linoleic acid metabolism	0.5	0.1714
+DEN_AdjLiver_Fasted_vs_nonDEN_Liver_Fasted	Selenocompound metabolism	0.5	0.1714
+DEN_AdjLiver_Fasted_vs_nonDEN_Liver_Fasted	Metabolism of xenobiotics by cytochrome P450	0.13333333333333333	0.1745
+DEN_AdjLiver_Fasted_vs_nonDEN_Liver_Fasted	beta-Alanine metabolism	0.14285714285714285	0.1778
+DEN_AdjLiver_Fasted_vs_nonDEN_Liver_Fasted	Histidine metabolism	0.16666666666666666	0.1948
+DEN_AdjLiver_Fasted_vs_nonDEN_Liver_Fasted	Lysine degradation	0.2222222222222222	0.2031
+DEN_AdjLiver_Fasted_vs_nonDEN_Liver_Fasted	Fatty acid biosynthesis	0.125	0.2119
+DEN_AdjLiver_Fasted_vs_nonDEN_Liver_Fasted	Fatty acid elongation	0.2222222222222222	0.2435
+DEN_AdjLiver_Fasted_vs_nonDEN_Liver_Fasted	Butanoate metabolism	0.15384615384615385	0.2633
+DEN_AdjLiver_Fasted_vs_nonDEN_Liver_Fasted	Terpenoid backbone biosynthesis	0.25	0.3715
+DEN_AdjLiver_Fasted_vs_nonDEN_Liver_Fasted	Propanoate metabolism	0.15384615384615385	0.4218
+DEN_AdjLiver_Fasted_vs_nonDEN_Liver_Fasted	Nitrogen metabolism	0.25	0.4223
+DEN_AdjLiver_Fasted_vs_nonDEN_Liver_Fasted	Glyoxylate and dicarboxylate metabolism	0.17647058823529413	0.4278
+DEN_AdjLiver_Fasted_vs_nonDEN_Liver_Fasted	Pentose phosphate pathway	0.09090909090909091	0.4326
+DEN_AdjLiver_Fasted_vs_nonDEN_Liver_Fasted	Arginine and proline metabolism	0.13513513513513514	0.5202
+DEN_AdjLiver_Fasted_vs_nonDEN_Liver_Fasted	Taurine and hypotaurine metabolism	0.25	0.551
+DEN_AdjLiver_Fasted_vs_nonDEN_Liver_Fasted	Arginine biosynthesis	0.11764705882352941	0.6068
+DEN_AdjLiver_Fasted_vs_nonDEN_Liver_Fasted	Glycerolipid metabolism	0.25	0.6215
+DEN_AdjLiver_Fasted_vs_nonDEN_Liver_Fasted	Pyruvate metabolism	0.14285714285714285	0.6661
+DEN_AdjLiver_Fasted_vs_nonDEN_Liver_Fasted	Cysteine and methionine metabolism	0.047619047619047616	0.6767
+DEN_AdjLiver_Fasted_vs_nonDEN_Liver_Fasted	Synthesis and degradation of ketone bodies	0.14285714285714285	0.6863
+DEN_AdjLiver_Fasted_vs_nonDEN_Liver_Fasted	Tyrosine metabolism	0.12121212121212122	0.6996
+DEN_AdjLiver_Fasted_vs_nonDEN_Liver_Fasted	Glycolysis or Gluconeogenesis	0.14285714285714285	0.7742
+DEN_AdjLiver_Fasted_vs_nonDEN_Liver_Fasted	Glutathione metabolism	0.14285714285714285	0.78
+DEN_AdjLiver_Fasted_vs_nonDEN_Liver_Fasted	Inositol phosphate metabolism	0.14285714285714285	0.7819
+DEN_AdjLiver_Fasted_vs_nonDEN_Liver_Fasted	D-Glutamine and D-glutamate metabolism	0.09090909090909091	0.7987
+DEN_AdjLiver_Fasted_vs_nonDEN_Liver_Fasted	Amino sugar and nucleotide sugar metabolism	0.13333333333333333	0.8117
+DEN_AdjLiver_Fasted_vs_nonDEN_Liver_Fasted	Tryptophan metabolism	0.07692307692307693	0.8138
+DEN_AdjLiver_Fasted_vs_nonDEN_Liver_Fasted	Citrate cycle (TCA cycle)	0.07142857142857142	0.8155
+DEN_AdjLiver_Fasted_vs_nonDEN_Liver_Fasted	Porphyrin and chlorophyll metabolism	0.16666666666666666	0.8466
+DEN_AdjLiver_Fasted_vs_nonDEN_Liver_Fasted	Valine, leucine and isoleucine degradation	0.07692307692307693	0.8696
+DEN_AdjLiver_Fasted_vs_nonDEN_Liver_Fasted	Pantothenate and CoA biosynthesis	0.07142857142857142	0.8806
+DEN_AdjLiver_Fasted_vs_nonDEN_Liver_Fasted	Alanine, aspartate and glutamate metabolism	0.058823529411764705	0.9355
+DEN_AdjLiver_Fasted_vs_nonDEN_Liver_Fasted	Glycine, serine and threonine metabolism	0.09375	0.9582
+DEN_AdjLiver_Fasted_vs_nonDEN_Liver_Fasted	Pyrimidine metabolism	0.08108108108108109	0.9787
+DEN_AdjLiver_Fed_vs_DEN_Tumour_Fed	Arginine and proline metabolism	0.21621621621621623	0.00124
+DEN_AdjLiver_Fed_vs_DEN_Tumour_Fed	Aminoacyl-tRNA biosynthesis	0.19230769230769232	0.034
+DEN_AdjLiver_Fed_vs_DEN_Tumour_Fed	Synthesis and degradation of ketone bodies	0.2857142857142857	0.03588
+DEN_AdjLiver_Fed_vs_DEN_Tumour_Fed	Glycine, serine and threonine metabolism	0.18181818181818182	0.05769
+DEN_AdjLiver_Fed_vs_DEN_Tumour_Fed	Phenylalanine, tyrosine and tryptophan biosynthesis	0.25	0.0863
+DEN_AdjLiver_Fed_vs_DEN_Tumour_Fed	Lysine degradation	0.16666666666666666	0.1037
+DEN_AdjLiver_Fed_vs_DEN_Tumour_Fed	Pyruvate metabolism	0.14285714285714285	0.1124
+DEN_AdjLiver_Fed_vs_DEN_Tumour_Fed	D-Glutamine and D-glutamate metabolism	0.2727272727272727	0.1388
+DEN_AdjLiver_Fed_vs_DEN_Tumour_Fed	Tyrosine metabolism	0.08571428571428572	0.1515
+DEN_AdjLiver_Fed_vs_DEN_Tumour_Fed	Glycosylphosphatidylinositol (GPI)-anchor biosynthesis	0.5	0.2131
+DEN_AdjLiver_Fed_vs_DEN_Tumour_Fed	Propanoate metabolism	0.14285714285714285	0.2357
+DEN_AdjLiver_Fed_vs_DEN_Tumour_Fed	Glutathione metabolism	0.23076923076923078	0.2498
+DEN_AdjLiver_Fed_vs_DEN_Tumour_Fed	Porphyrin and chlorophyll metabolism	0.25	0.2608
+DEN_AdjLiver_Fed_vs_DEN_Tumour_Fed	Drug metabolism - cytochrome P450	0.125	0.2617
+DEN_AdjLiver_Fed_vs_DEN_Tumour_Fed	Nicotinate and nicotinamide metabolism	0.2857142857142857	0.2653
+DEN_AdjLiver_Fed_vs_DEN_Tumour_Fed	Valine, leucine and isoleucine biosynthesis	0.14285714285714285	0.2829
+DEN_AdjLiver_Fed_vs_DEN_Tumour_Fed	Citrate cycle (TCA cycle)	0.06666666666666667	0.2968
+DEN_AdjLiver_Fed_vs_DEN_Tumour_Fed	Phenylalanine metabolism	0.125	0.3021
+DEN_AdjLiver_Fed_vs_DEN_Tumour_Fed	Butanoate metabolism	0.14814814814814814	0.3052
+DEN_AdjLiver_Fed_vs_DEN_Tumour_Fed	Histidine metabolism	0.16666666666666666	0.3065
+DEN_AdjLiver_Fed_vs_DEN_Tumour_Fed	D-Arginine and D-ornithine metabolism	0.25	0.3084
+DEN_AdjLiver_Fed_vs_DEN_Tumour_Fed	Amino sugar and nucleotide sugar metabolism	0.2	0.3182
+DEN_AdjLiver_Fed_vs_DEN_Tumour_Fed	Arginine biosynthesis	0.1875	0.3357
+DEN_AdjLiver_Fed_vs_DEN_Tumour_Fed	Glyoxylate and dicarboxylate metabolism	0.11764705882352941	0.3823
+DEN_AdjLiver_Fed_vs_DEN_Tumour_Fed	Phosphatidylinositol signaling system	0.25	0.4074
+DEN_AdjLiver_Fed_vs_DEN_Tumour_Fed	beta-Alanine metabolism	0.13636363636363635	0.4147
+DEN_AdjLiver_Fed_vs_DEN_Tumour_Fed	Nitrogen metabolism	0.25	0.4403
+DEN_AdjLiver_Fed_vs_DEN_Tumour_Fed	Glycolysis or Gluconeogenesis	0.16666666666666666	0.4522
+DEN_AdjLiver_Fed_vs_DEN_Tumour_Fed	Inositol phosphate metabolism	0.16666666666666666	0.4522
+DEN_AdjLiver_Fed_vs_DEN_Tumour_Fed	Purine metabolism	0.06896551724137931	0.4545
+DEN_AdjLiver_Fed_vs_DEN_Tumour_Fed	Fructose and mannose metabolism	0.1	0.534
+DEN_AdjLiver_Fed_vs_DEN_Tumour_Fed	Cysteine and methionine metabolism	0.1	0.549
+DEN_AdjLiver_Fed_vs_DEN_Tumour_Fed	Valine, leucine and isoleucine degradation	0.1111111111111111	0.5908
+DEN_AdjLiver_Fed_vs_DEN_Tumour_Fed	Tryptophan metabolism	0.06666666666666667	0.6383
+DEN_AdjLiver_Fed_vs_DEN_Tumour_Fed	Starch and sucrose metabolism	0.14285714285714285	0.6496
+DEN_AdjLiver_Fed_vs_DEN_Tumour_Fed	Pantothenate and CoA biosynthesis	0.07692307692307693	0.6741
+DEN_AdjLiver_Fed_vs_DEN_Tumour_Fed	Alanine, aspartate and glutamate metabolism	0.11428571428571428	0.7028
+DEN_AdjLiver_Fed_vs_DEN_Tumour_Fed	Ascorbate and aldarate metabolism	0.1111111111111111	0.716
+DEN_AdjLiver_Fed_vs_DEN_Tumour_Fed	Galactose metabolism	0.09090909090909091	0.8331
+DEN_AdjLiver_Fed_vs_DEN_Tumour_Fed	Pyrimidine metabolism	0.05263157894736842	0.8363
+DEN_AdjLiver_Fed_vs_nonDEN_Liver_Fed	Alanine, aspartate and glutamate metabolism	0.29411764705882354	0.00052
+DEN_AdjLiver_Fed_vs_nonDEN_Liver_Fed	Phosphatidylinositol signaling system	0.75	0.00069
+DEN_AdjLiver_Fed_vs_nonDEN_Liver_Fed	Starch and sucrose metabolism	0.5	0.00236
+DEN_AdjLiver_Fed_vs_nonDEN_Liver_Fed	Fructose and mannose metabolism	0.36363636363636365	0.00248
+DEN_AdjLiver_Fed_vs_nonDEN_Liver_Fed	Propanoate metabolism	0.4	0.0037
+DEN_AdjLiver_Fed_vs_nonDEN_Liver_Fed	Glycolysis or Gluconeogenesis	0.5	0.00436
+DEN_AdjLiver_Fed_vs_nonDEN_Liver_Fed	Inositol phosphate metabolism	0.5	0.00436
+DEN_AdjLiver_Fed_vs_nonDEN_Liver_Fed	Nitrogen metabolism	0.5	0.01908
+DEN_AdjLiver_Fed_vs_nonDEN_Liver_Fed	Amino sugar and nucleotide sugar metabolism	0.2857142857142857	0.02487
+DEN_AdjLiver_Fed_vs_nonDEN_Liver_Fed	Ascorbate and aldarate metabolism	0.3333333333333333	0.02687
+DEN_AdjLiver_Fed_vs_nonDEN_Liver_Fed	Galactose metabolism	0.2727272727272727	0.03311
+DEN_AdjLiver_Fed_vs_nonDEN_Liver_Fed	Aminoacyl-tRNA biosynthesis	0.15384615384615385	0.04307
+DEN_AdjLiver_Fed_vs_nonDEN_Liver_Fed	Purine metabolism	0.21428571428571427	0.04537
+DEN_AdjLiver_Fed_vs_nonDEN_Liver_Fed	D-Glutamine and D-glutamate metabolism	0.2727272727272727	0.04643
+DEN_AdjLiver_Fed_vs_nonDEN_Liver_Fed	Ubiquinone and other terpenoid-quinone biosynthesis	0.25	0.04903
+DEN_AdjLiver_Fed_vs_nonDEN_Liver_Fed	Butanoate metabolism	0.2222222222222222	0.0769
+DEN_AdjLiver_Fed_vs_nonDEN_Liver_Fed	Synthesis and degradation of ketone bodies	0.42857142857142855	0.08855
+DEN_AdjLiver_Fed_vs_nonDEN_Liver_Fed	Cysteine and methionine metabolism	0.2	0.1545
+DEN_AdjLiver_Fed_vs_nonDEN_Liver_Fed	Folate biosynthesis	0.3333333333333333	0.159
+DEN_AdjLiver_Fed_vs_nonDEN_Liver_Fed	Arginine biosynthesis	0.25	0.189
+DEN_AdjLiver_Fed_vs_nonDEN_Liver_Fed	Lysine degradation	0.17647058823529413	0.23
+DEN_AdjLiver_Fed_vs_nonDEN_Liver_Fed	Phenylalanine metabolism	0.125	0.2331
+DEN_AdjLiver_Fed_vs_nonDEN_Liver_Fed	Valine, leucine and isoleucine degradation	0.18518518518518517	0.2337
+DEN_AdjLiver_Fed_vs_nonDEN_Liver_Fed	Glutathione metabolism	0.15384615384615385	0.2499
+DEN_AdjLiver_Fed_vs_nonDEN_Liver_Fed	Pyruvate metabolism	0.14285714285714285	0.252
+DEN_AdjLiver_Fed_vs_nonDEN_Liver_Fed	Pentose phosphate pathway	0.18181818181818182	0.2686
+DEN_AdjLiver_Fed_vs_nonDEN_Liver_Fed	Pyrimidine metabolism	0.15384615384615385	0.2733
+DEN_AdjLiver_Fed_vs_nonDEN_Liver_Fed	Selenocompound metabolism	0.5	0.2923
+DEN_AdjLiver_Fed_vs_nonDEN_Liver_Fed	Valine, leucine and isoleucine biosynthesis	0.21428571428571427	0.3105
+DEN_AdjLiver_Fed_vs_nonDEN_Liver_Fed	Glyoxylate and dicarboxylate metabolism	0.125	0.3125
+DEN_AdjLiver_Fed_vs_nonDEN_Liver_Fed	N-Glycan biosynthesis	0.5	0.3127
+DEN_AdjLiver_Fed_vs_nonDEN_Liver_Fed	Histidine metabolism	0.16666666666666666	0.3281
+DEN_AdjLiver_Fed_vs_nonDEN_Liver_Fed	Glycine, serine and threonine metabolism	0.15625	0.3627
+DEN_AdjLiver_Fed_vs_nonDEN_Liver_Fed	Tyrosine metabolism	0.16216216216216217	0.4062
+DEN_AdjLiver_Fed_vs_nonDEN_Liver_Fed	Glycerolipid metabolism	0.25	0.409
+DEN_AdjLiver_Fed_vs_nonDEN_Liver_Fed	Porphyrin and chlorophyll metabolism	0.16666666666666666	0.4148
+DEN_AdjLiver_Fed_vs_nonDEN_Liver_Fed	Pentose and glucuronate interconversions	0.18181818181818182	0.4536
+DEN_AdjLiver_Fed_vs_nonDEN_Liver_Fed	beta-Alanine metabolism	0.13636363636363635	0.5188
+DEN_AdjLiver_Fed_vs_nonDEN_Liver_Fed	Nicotinate and nicotinamide metabolism	0.16666666666666666	0.5196
+DEN_AdjLiver_Fed_vs_nonDEN_Liver_Fed	Arginine and proline metabolism	0.1111111111111111	0.6055
+DEN_AdjLiver_Fed_vs_nonDEN_Liver_Fed	Biosynthesis of unsaturated fatty acids	0.07142857142857142	0.6607
+DEN_AdjLiver_Fed_vs_nonDEN_Liver_Fed	Citrate cycle (TCA cycle)	0.07142857142857142	0.7526
+DEN_AdjLiver_Fed_vs_nonDEN_Liver_Fed	Pantothenate and CoA biosynthesis	0.08	0.791
